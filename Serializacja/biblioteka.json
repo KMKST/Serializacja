@@ -1,0 +1,16 @@
+[ {
+  "tytul" : "Wiedźmin",
+  "autor" : "Andrzej Sapkowski",
+  "rokWydania" : 1993,
+  "dostepna" : true
+}, {
+  "tytul" : "1984",
+  "autor" : "George Orwell",
+  "rokWydania" : 1949,
+  "dostepna" : false
+}, {
+  "tytul" : "Solaris",
+  "autor" : "Stanisław Lem",
+  "rokWydania" : 1961,
+  "dostepna" : true
+} ]
