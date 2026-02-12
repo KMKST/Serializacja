@@ -7,7 +7,7 @@ public class Ksiazka {
     private int rokWydania;
     private boolean dostepna;
 
-    // Wymagany przez Jackson do deserializacji
+    
     public Ksiazka() {}
 
     public Ksiazka(String tytul, String autor, int rokWydania, boolean dostepna) {
